@@ -1,0 +1,38 @@
+body {
+   background-image: url(file:///C:/Users/Admin/OneDrive/Lavoro%20tesina%20Matteo/html/esercizio%20ammissione/background.jpg)
+   margin: auto;
+}
+
+<!-- rettangolo contenitore -->
+.box {
+ background-color: green;
+
+}
+
+<!-- quadratini testo -->
+#quadrato {
+      width: 20px;
+      height: 20px;
+      background: white;
+    }
+
+<!-- rettangolo arancio -->
+#rectangleorange {
+          width: 600px;
+          height: 100px;
+          background: orange;
+      }
+
+<!-- rettangolo verde -->
+#rectanglegreen {
+      width: 1000px;
+      height: 100px;
+      background: green;
+    }
+
+<!-- rettangolo rosso -->
+#rectanglered {
+      width: 600px;
+      height: 100px;
+      background: red;
+    }
